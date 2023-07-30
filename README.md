@@ -22,9 +22,7 @@ Web sitenin içinde küçük resim olusturmak
 
 "thumbnail": "https//1/1.jpg",
 
-"images":
-
-"https://1/1.jpg",
+"images":"https://github.com/sefo3302/thumbnail1/blob/main/1.jpg",
 
 },
 {
