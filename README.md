@@ -20,11 +20,11 @@ Web sitenin içinde küçük resim olusturmak
 
   "category": "smartphones",
 
-  "thumbnail": "https://i.dummyjson.com/data/products/1/1.jpg",
+  "thumbnail": "https://products /1/1.jpg",
 
   "images": 
 
-    "https://i.dummyjson.com/data/products/1/1.jpg",  
+    "https:"/products/1/1.jpg",  
 
     },
     {
@@ -47,11 +47,11 @@ Web sitenin içinde küçük resim olusturmak
 
   "category": "smartphones",
 
-  "thumbnail": "https://i.dummyjson.com/data/products/2/2.jpg",
+  "thumbnail": "https://products/2/2.jpg",
 
   "images": 
 
-    "https://i.dummyjson.com/data/products/2/2.jpg",  
+    "https://products/2/2.jpg",  
 
     },
     {
@@ -74,11 +74,11 @@ Web sitenin içinde küçük resim olusturmak
 
   "category": "smartphones",
 
-  "thumbnail": "https://i.dummyjson.com/data/products/3/3.jpg",
+  "thumbnail": "https://products/3/3.jpg",
 
   "images": 
 
-    "https://i.dummyjson.com/data/products/3/3.jpg",  
+    "https://products/3/3.jpg",  
 
     },
     {
@@ -101,10 +101,10 @@ Web sitenin içinde küçük resim olusturmak
 
   "category": "smartphones",
 
-  "thumbnail": "https://i.dummyjson.com/data/products/4/4.jpg",
+  "thumbnail": "https://products/4/4.jpg",
 
   "images": 
 
-    "https://i.dummyjson.com/data/products/4/4.jpg",  
+    "https://products/4/4.jpg",  
 
     },
