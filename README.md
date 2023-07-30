@@ -49,9 +49,9 @@ Web sitenin içinde küçük resim olusturmak
 
   "thumbnail": "https://i.dummyjson.com/data/products/2/2.jpg",
 
-  "images": [
+  "images": 
 
-    "https://i.dummyjson.com/data/products/2/2.jpg",  ]
+    "https://i.dummyjson.com/data/products/2/2.jpg",  
 
     },
     {
@@ -76,9 +76,9 @@ Web sitenin içinde küçük resim olusturmak
 
   "thumbnail": "https://i.dummyjson.com/data/products/3/3.jpg",
 
-  "images": [
+  "images": 
 
-    "https://i.dummyjson.com/data/products/3/3.jpg",  ]
+    "https://i.dummyjson.com/data/products/3/3.jpg",  
 
     },
     {
@@ -103,8 +103,8 @@ Web sitenin içinde küçük resim olusturmak
 
   "thumbnail": "https://i.dummyjson.com/data/products/4/4.jpg",
 
-  "images": [
+  "images": 
 
-    "https://i.dummyjson.com/data/products/4/4.jpg",  ]
+    "https://i.dummyjson.com/data/products/4/4.jpg",  
 
     },
