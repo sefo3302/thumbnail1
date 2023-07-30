@@ -99,7 +99,7 @@ Web sitenin içinde küçük resim olusturmak
 
 "category": "smartphones",
 
-"thumbnail": "https://4/4.jpg",
+"thumbnail": "https://github.com/sefo3302/thumbnail1/blob/main/4.jpg",
 
 "images": 
 {
